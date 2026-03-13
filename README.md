@@ -10,6 +10,11 @@ This repository contains beginner-level Python programs created while practicing
 3. password_generator
 4. calculator
 5. student_record_manager
+6. file_organiser
+7. web_scraper
+8. data_analysis
+9. contact_book
+10. banking_system
 
 ## Concepts Practiced
 
