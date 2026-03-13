@@ -57,11 +57,5 @@ GitHub: https://github.com/Keerthana01-08
 - Basic Data Structures
 - Problem Solving
 
-## Projects
-- Python Practice Programs
-- Calculator
-- Password Generator
-- Guess Number Game
-
 ## Goal
-To become a skilled software developer.
+To gain experience through internships and improve software development skills.
