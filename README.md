@@ -44,3 +44,23 @@ This repository is created to practice Python fundamentals and improve problem-s
 **Keerthana Pedada**
 
 GitHub: https://github.com/Keerthana01-08
+
+# Hi I'm Keerthana
+
+- Student learning programming  
+- Interested in Python development  
+- Currently practicing coding and problem solving  
+
+## Skills
+- Python
+- Basic Data Structures
+- Problem Solving
+
+## Projects
+- Python Practice Programs
+- Calculator
+- Password Generator
+- Guess Number Game
+
+## Goal
+To become a skilled software developer.
