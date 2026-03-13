@@ -5,11 +5,11 @@ This repository contains beginner-level Python programs created while practicing
 
 ## Programs Included
 
-1. Guess_Number
-2. List_Manager
-3. Password_Generator
-4. Calculator
-5. Student_record_manager
+1. guess_number
+2. list_manager
+3. password_generator
+4. calculator
+5. student_record_manager
 
 ## Concepts Practiced
 
