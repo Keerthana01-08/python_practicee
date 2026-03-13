@@ -4,10 +4,10 @@
 This repository contains beginner-level Python programs created while practicing programming concepts.
 
 ## Programs Included
-- Guess a Number Game
-- List Manager
-- Password Generator
-- Simple Calculator
+- Guess_Number.py
+- List_Manager.py
+- Password_Generator.py
+- calculator.py
 
 ## Technologies Used
 - Python 3
